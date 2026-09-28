@@ -1,3 +1,7 @@
+#👇🏻👇🏻This is my Demo video link of project
+
+https://drive.google.com/file/d/170JL9ihzIqXCzvI5Qzyqagjwvi6_nfS_/view?usp=drive_link
+
 # 📈 Financial News Simplifier
 > **AI-Powered Educational Web Application for Translating Complex Financial News into Simple Language**
 >
